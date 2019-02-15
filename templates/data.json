@@ -1,0 +1,100 @@
+{
+  "Bandeirao": {
+    "name": "i_bandeirao.png",
+    "x": 3377,
+    "y": -2697,
+    "width": 616,
+    "height": 401
+  },
+  "MainFla": {
+    "name": "mainfla_novo.png",
+    "x": 1880,
+    "y": -2648,
+    "width": 1458,
+    "height": 888
+  },
+  "Camisa1": {
+    "name": "i_camisa1.png",
+    "x": 3036,
+    "y": -2671,
+    "width": 100,
+    "height": 100
+  },
+  "Camisa2": {
+    "name": "i_camisa2.png",
+    "x": 3136,
+    "y": -2671,
+    "width": 100,
+    "height": 100
+  },
+    "Camisa3": {
+    "name": "i_camisa3.png",
+    "x": 3236,
+    "y": -2671,
+    "width": 100,
+    "height": 100
+  },
+    "FlaDiscord": {
+    "name": "flapixel.png",
+    "x": 176,
+    "y": -275,
+    "width": 74,
+    "height": 74
+  },
+    "Borda": {
+    "name": "borda.png",
+    "x": 3347,
+    "y": -2727,
+    "width": 676,
+    "height": 461
+  },
+    "FestaNaFavela": {
+    "name": "FestaNaFavela.png",
+    "x": 1978,
+    "y": -2893,
+    "width": 426,
+    "height": 322
+  },
+    "81": {
+    "name": "81.png",
+    "x": 3347,
+    "y": -2882,
+    "width": 676,
+    "height": 155
+    },
+    "Respeito": {
+    "name": "respeito.png",
+    "x": 3321,
+    "y": -2165,
+    "width": 304,
+    "height": 217
+ },
+  "FlaBasquete": {
+    "name": "FlaBasquete2.png",
+    "x": 2908,
+    "y": -2694,
+    "width": 124,
+    "height": 124
+   },
+  "Zico": {
+    "name": "zico.png",
+    "x": 2405,
+    "y": -2893,
+    "width": 433,
+    "height": 245
+  },
+  "SomosTodos": {
+    "name": "somostodos.png",
+    "x": 3347,
+    "y": -2266,
+    "width": 675,
+    "height": 100
+  },
+    "ReidoRio": {
+    "name": "reidorio.png",
+    "x": 3625,
+    "y": -2165,
+    "width": 485,
+    "height": 265
+    }
+}
