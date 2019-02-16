@@ -11,12 +11,12 @@
 > ##### Nota: você pode baixar o script do usuário depois que ele for concluído a partir da instalação (talvez seja necessário reiniciar seu navegador para isso).
 
 #### Etapa 2: Instalando o UserScript
-[BAIXAR](https://github.com/ialexanderbrito/flapixel/raw/master/minimap.user.js)
+[BAIXAR](https://github.com/ialexanderbrito/flapixel/raw/master/minimap_flapixel.user.js)
 
 Depois de clicar no link, ele será chamado de instalação e completo na janela aberta.
 
 ### atualizar
-[Verifique atualizações](https://github.com/ialexanderbrito/flapixel/raw/master/minimap.user.js)
+[Verifique atualizações](https://github.com/ialexanderbrito/flapixel/raw/master/minimap_flapixel.user.js)
 
 Depois de clicar no link, a janela popup aberta será atualizada (se disponível).
 
