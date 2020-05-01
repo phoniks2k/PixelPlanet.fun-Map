@@ -1,19 +1,15 @@
 // ==UserScript==
-// @name         FlaPixel Minimap
-// @version      1.2.1
-// @description  Pixelcanvas Minimap
-// @author       Alexander
+// @name         PurplePlague Minimap
+// @version      0.1.0
+// @description  PixelPlanet Minimap
+// @author       William
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
 // @grant        none
 // ==/UserScript==
 /* 
- _______  __           ___      .______    __  ___   ___  _______  __      
-|   ____||  |         /   \     |   _  \  |  | \  \ /  / |   ____||  |     
-|  |__   |  |        /  ^  \    |  |_)  | |  |  \  V  /  |  |__   |  |     
-|   __|  |  |       /  /_\  \   |   ___/  |  |   >   <   |   __|  |  |     
-|  |     |  `----. /  _____  \  |  |      |  |  /  .  \  |  |____ |  `----.
-|__|     |_______|/__/     \__\ | _|      |__| /__/ \__\ |_______||_______|
+
+LPV
 
 */
 
